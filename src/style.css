@@ -4,3 +4,7 @@ h1 {
 p {
   font-family: "Poppins", sans-serif;
 }
+.hero {
+  text-align: center;
+  background-color: #f9f7fe;
+}
