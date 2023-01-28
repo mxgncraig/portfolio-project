@@ -7,4 +7,28 @@ p {
 .hero {
   text-align: center;
   background-color: #f9f7fe;
+  padding: 150px 0;
+}
+.hero p {
+  font-size: 36px;
+  font-weight: 700;
+  color: #272142;
+  margin: 0;
+}
+.hero h1 {
+  font-size: 96px;
+}
+.hero h2 {
+  font-size: 24px;
+  font-weight: 400;
+  color: #272142;
+}
+.btn-branding {
+  background: #6c63ff;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  border-radius: 4px;
+  padding: 18px 30px;
 }
