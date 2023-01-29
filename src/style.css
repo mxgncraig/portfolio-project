@@ -68,7 +68,6 @@ p {
   text-decoration: none;
   transition: 250ms;
 }
-
 .project-showcase {
   padding: 70px;
 }
@@ -89,4 +88,16 @@ p {
   text-align: center;
   font-size: 25px;
   font-weight: 400;
+}
+@media (max-width: 900px) {
+  h1 {
+    font-size: 60px;
+  }
+  .hero {
+    padding: 100px 0;
+  }
+  .project-showcase {
+    padding: 0;
+    text-align: center;
+  }
 }
