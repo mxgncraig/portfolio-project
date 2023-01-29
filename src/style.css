@@ -89,6 +89,18 @@ p {
   font-size: 25px;
   font-weight: 400;
 }
+.btn-contact {
+  background: var(--btn-background-color);
+  width: 200px;
+  color: #ffffff;
+  font-family: var(--subheading-font-family);
+  font-weight: 500;
+  font-size: 18px;
+  border-radius: 4px;
+  padding: 18px 30px;
+  text-decoration: none;
+  transition: 250ms;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 60px;
@@ -98,6 +110,9 @@ p {
   }
   .project-showcase {
     padding: 0;
+    text-align: center;
+  }
+  .main-footer {
     text-align: center;
   }
 }
