@@ -6,9 +6,15 @@
 }
 h1 {
   font-family: var(--heading-font-family);
+  font-size: 64px;
+  font-weight: 700;
+  color: #000000;
 }
 p {
   font-family: var(--subheading-font-family);
+  font-size: 18px;
+  font-weight: 400;
+  color: #272142;
 }
 .hero {
   text-align: center;
@@ -44,4 +50,20 @@ p {
   cursor: pointer;
   color: var(--btn-background-color);
   background-color: var(--background-color);
+}
+.project-outline {
+  font-size: 16px;
+  font-weight: 400;
+  color: #272142b2;
+}
+.btn-launch {
+  background: var(--background-color);
+  color: #6c63ff;
+  font-family: var(--subheading-font-family);
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 4px;
+  padding: 18px 30px;
+  text-decoration: none;
+  transition: 250ms;
 }
