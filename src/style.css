@@ -74,3 +74,21 @@ img {
 .project-showcase {
   padding: 70px;
 }
+.main-footer {
+  background-color: var(--background-color);
+  border-radius: 20px;
+  padding: 30px;
+}
+.main-footer h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+.main-footer p {
+  font-size: 18px;
+  font-weight: 400;
+}
+.footer-email {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 400;
+}
