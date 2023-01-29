@@ -68,3 +68,9 @@ p {
   text-decoration: none;
   transition: 250ms;
 }
+img {
+  width: 560px;
+}
+.project-showcase {
+  padding: 70px;
+}
