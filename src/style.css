@@ -101,6 +101,9 @@ p {
   text-decoration: none;
   transition: 250ms;
 }
+.about {
+  padding: 150px 0;
+}
 .about h2 {
   font-size: 18px;
   font-weight: 700;
@@ -125,6 +128,7 @@ p {
   }
   .about {
     text-align: center;
+    padding: 0;
   }
   .main-footer {
     text-align: center;
