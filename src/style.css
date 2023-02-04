@@ -123,6 +123,9 @@ p {
     padding: 0;
     text-align: center;
   }
+  .about {
+    text-align: center;
+  }
   .main-footer {
     text-align: center;
   }
