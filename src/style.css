@@ -138,3 +138,6 @@ p {
     text-align: center;
   }
 }
+nav a {
+  font-family: var(--subheading-font-family);
+}
