@@ -101,6 +101,17 @@ p {
   text-decoration: none;
   transition: 250ms;
 }
+.about h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #272142;
+  line-height: 30px;
+}
+.about p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #272142b2;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 60px;
