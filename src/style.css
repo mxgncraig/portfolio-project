@@ -4,6 +4,10 @@
   --background-color: #f9f7fe;
   --btn-background-color: #6c63ff;
 }
+nav a {
+  font-family: var(--subheading-font-family);
+}
+
 h1 {
   font-family: var(--heading-font-family);
   font-size: 64px;
@@ -170,7 +174,4 @@ p {
     text-align: center;
     padding: 0px;
   }
-}
-nav a {
-  font-family: var(--subheading-font-family);
 }
