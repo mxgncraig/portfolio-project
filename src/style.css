@@ -123,6 +123,31 @@ p {
   padding-top: 150px;
   padding-bottom: 100px;
 }
+.email-link {
+  font-family: var(--subheading-font-family);
+  font-weight: 500;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000000;
+  transition: 150ms ease-in-out;
+}
+.email-link:hover {
+  color: var(--btn-background-color);
+  cursor: pointer;
+}
+.social-icons a {
+  color: var(--btn-background-color);
+  margin: 0 20px;
+  background: var(--background-color);
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: 150ms ease-in-out;
+}
+.social-icons a:hover {
+  color: var(--background-color);
+  background: var(--btn-background-color);
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 60px;
