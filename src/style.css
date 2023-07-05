@@ -147,6 +147,7 @@ p {
   border-radius: 50%;
   font-size: 18px;
   transition: 150ms ease-in-out;
+  text-decoration: none;
 }
 .social-icons a:hover {
   color: var(--background-color);
